@@ -43,4 +43,8 @@ models:
       sats:
         tags:
           - 'satellite'
+    mart:
+      tags:
+        - 'mart'
+      materialized: table
 
